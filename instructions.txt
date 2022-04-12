@@ -1,0 +1,28 @@
+Instructions for minesweeper game
+
+-Before starting the game, the game asks for a seed value, from which the
+program randomizes the gameboard.
+
+-Clicking start/reset -button starts/resets the timer and initializes the board
+with the given seed value.
+
+-The game begins and all the squares are allowed to be clicked. To choose the
+action you wish to play, you can select from the radio buttons flag or opening
+a square.
+
+-You can remove a flag by clicking it twice with the flag checkbox checked.
+
+-All the squares that have no adjacent mines open, and those with adjacent mines
+are being shown with the corresponding number.
+
+-The game informs about possible win/loss situation on the text field.
+
+-When the game ends, all the buttons of the board become disabled and the timer is stopped.
+
+-You can choose a new seed value or replay with the previous board by clicking start/reset.
+
+
+
+Additional properties:
+
+-There is a corresponding logo shown for the mines and flags. 
