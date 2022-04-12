@@ -15,9 +15,7 @@
  * 
  * Writer of the program
  * Name: Timo Hanski
- * Student ID: 427641
- * Username: th427641
- * E-mail: timo.hanski@tuni.fi
+ * E-mail: timo.hanski@gmail.com
  * 
 */
 
